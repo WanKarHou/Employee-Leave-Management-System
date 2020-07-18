@@ -15,4 +15,7 @@ Then, system database also will record the days of leave left for each employee 
 The days of leave available for  an employee this year can be carry forward to next year under condition and restriction.
 
 
-
+File Description : 
+1. Function.txt - Consists of function that could used in this SQL database 
+2. StoredProcedure.txt - Consists of Stored Procedure that could used in this SQL database 
+3. Queries.txt - Consistes of Queries that could be used in this SQL database
