@@ -14,3 +14,5 @@ Each type of leave has unique leave code. Each employee will have different type
 Then, system database also will record the days of leave left for each employee  and the leave status of employee. 
 The days of leave available for  an employee this year can be carry forward to next year under condition and restriction.
 
+
+
